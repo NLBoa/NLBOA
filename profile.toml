@@ -47,8 +47,8 @@ fields = [
 [[sections]]
 name = "Contact"
 fields = [
-  ["LinkedIn", "in/noah-leibovitz"],
-  ["Email",    "noah.leibovitz@outlook.com"],
+  ["LinkedIn", "in/noah-leibovitz-879751294"],
+  ["Email",    "Noah.leibovitz@outlook.com"],
   ["GitHub",   "NLBoa"],
   ["Status",   "open to SWE internships", "green"],
 ]

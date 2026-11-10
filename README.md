@@ -7,8 +7,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/noah-leibovitz"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn"></a>
-  <a href="mailto:noah.leibovitz@outlook.com"><img src="https://img.shields.io/badge/Email-C8102E?style=for-the-badge" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/noah-leibovitz-879751294/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn"></a>
+  <a href="mailto:Noah.leibovitz@outlook.com"><img src="https://img.shields.io/badge/Email-C8102E?style=for-the-badge" alt="Email"></a>
 </p>
 
 ---

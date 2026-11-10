@@ -38,7 +38,7 @@ Touchscreen home board for our apartment, running full screen on a Raspberry Pi 
 <td width="50%" valign="top">
 
 #### [Jupiterp](https://github.com/atcupps/Jupiterp/pull/975)
-Open-source course scheduler for University of Maryland students, live at [jupiterp.com](https://jupiterp.com). My merged contribution **syncs the Course Planner into the Schedule Generator**: the courses a student has planned fill in the generator automatically and stay in step as the plan changes, so nobody re-enters them. Shipped with 200+ lines of new tests.
+Open-source course scheduler for University of Maryland students, live at [jupiterp.com](https://jupiterp.com). My merged contribution **syncs the Course Planner into the Schedule Generator**: the courses a student has planned fill in the generator automatically and stay in step as the plan changes, so nobody re-enters them.
 
 `Svelte` `TypeScript` `Open source`
 

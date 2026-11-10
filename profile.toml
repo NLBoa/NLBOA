@@ -1,0 +1,77 @@
+# Everything written on the right half of the profile card lives here.
+#
+# To change the card: edit this file, then run
+#     python3 tools/build_card.py
+# and commit the two files it rewrites in assets/.
+#
+# Each line must fit the card: label + value can be at most 51 characters.
+# If one is too long, the build stops and says how much to trim.
+#
+# A field is ["Label", "value"]. Add a third item to colour the value:
+# "green", "red" or "gold".
+
+title = "noah@leibovitz"   # header line, top right
+prompt = "~ $"             # last line, followed by the blinking cursor
+
+[[sections]]               # the first block has no section rule
+fields = [
+  ["School", "University of Maryland, College Park"],
+  ["Degree", "B.S. Computer Science, Business · May 2029"],
+  ["Honors", "President's Scholar"],
+  ["Role",   "SWE Intern @ Gulf Coast Estate Care"],
+]
+
+[[sections]]
+name = "Experience"
+fields = [
+  ["Now",    "C# scheduling engine @ Gulf Coast Estate Care"],
+  ["Before", "dashboard prototype @ Seven Simple Machines"],
+]
+
+[[sections]]
+name = "Building"
+fields = [
+  ["Argus",         "UMD course hub on a Raspberry Pi"],
+  ["Java.Shell",    "POSIX-style shell, built from scratch"],
+  ["SKIBUS",        "check-in system, 4 seasons, 180+ trips"],
+  ["Smart.Display", "Pi dashboard + Zigbee lighting"],
+]
+
+[[sections]]
+name = "Hobbies"
+fields = [
+  ["Outdoors", "skiing, scuba diving, running, traveling"],
+  ["Indoors",  "ping pong, sleeping"],
+]
+
+[[sections]]
+name = "Contact"
+fields = [
+  ["LinkedIn", "in/noah-leibovitz"],
+  ["Email",    "noah.leibovitz@outlook.com"],
+  ["GitHub",   "NLBoa"],
+  ["Status",   "open to SWE internships", "green"],
+]
+
+# Colours. Uncomment and change any of these; anything left out keeps its default.
+# [colors.dark]
+# background = "#0d0f14"
+# border     = "#262b36"
+# face       = "#e8eaf0"   # the ASCII face
+# accent     = "#ff4d5e"   # header and labels (Maryland red, brightened for dark)
+# section    = "#ffd200"   # section names (Maryland gold)
+# value      = "#e6e6e6"
+# dim        = "#3d4452"   # dot leaders and rules
+# green      = "#5dd68a"
+# red        = "#ff5c7a"
+#
+# [colors.light]
+# background = "#ffffff"
+# border     = "#d0d7de"
+# face       = "#1f2328"
+# accent     = "#c8102e"
+# section    = "#8a6400"
+# value      = "#1f2328"
+# dim        = "#c4cad1"
+# green      = "#1a7f37"
+# red        = "#cf222e"

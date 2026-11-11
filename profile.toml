@@ -41,7 +41,7 @@ fields = [
 name = "Hobbies"
 fields = [
   ["Outdoors", "skiing, scuba diving, running, traveling"],
-  ["Indoors",  "ping pong"],
+  ["Indoors",  "ping pong, reading"],
 ]
 
 [[sections]]
